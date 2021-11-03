@@ -12,7 +12,7 @@ const systemeBoiteDialogue = (boiteDialogue, dialog, button_O, button_F) => {
 
 alert("Voici ma page web dédié au livre La dame pâle de Alexandre Dumas");
 alert(
-  "Tu y trouvera :,\nun lien vers le livre versioon pdf, \nun résumé complet du livre, \nune analyse de l'oeuvre, \nmes opignon personnel et \nun autre lien vers un QCM sur le livre pour vérifier tes connaissance"
+  "Tu y trouvera :\nun lien vers le livre versioon pdf,\nun résumé complet du livre,\nune analyse de l'oeuvre,\nmes opignon personnel et\nun autre lien vers un QCM sur le livre pour vérifier tes connaissance"
 );
 alert("MERCI !!!");
 
