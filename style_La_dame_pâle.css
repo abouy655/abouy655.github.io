@@ -1,0 +1,32 @@
+/*Voici comment s'organise mon site web html "la dame pâle*/
+body{
+    background-color: black;
+    font-family : fantasy;
+}
+p{
+    color:gray;
+    font-size:60px;
+}
+h1{
+    color:darkblue;
+    font-size: 100px;
+}
+h4{
+    color:red; 
+    font-size:80px;
+}
+a{
+    font-size:50px;
+}
+button{
+    font-size : 30px;
+    background-color : darkblue;
+    color : red;
+}
+dialog{
+    background-color: black;
+}
+figcaption{
+    color : olive;
+    font-size: 20px;
+}
